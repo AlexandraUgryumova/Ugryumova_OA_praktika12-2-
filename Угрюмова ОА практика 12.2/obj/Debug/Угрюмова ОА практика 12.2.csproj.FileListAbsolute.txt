@@ -1,0 +1,10 @@
+C:\Users\305-12\Desktop\Угрюмова Пр-21\Угрюмова ОА практика 12.2\bin\Debug\Угрюмова ОА практика 12.2.exe.config
+C:\Users\305-12\Desktop\Угрюмова Пр-21\Угрюмова ОА практика 12.2\bin\Debug\Угрюмова ОА практика 12.2.exe
+C:\Users\305-12\Desktop\Угрюмова Пр-21\Угрюмова ОА практика 12.2\bin\Debug\Угрюмова ОА практика 12.2.pdb
+C:\Users\305-12\Desktop\Угрюмова Пр-21\Угрюмова ОА практика 12.2\obj\Debug\Угрюмова ОА практика 12.2.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\Угрюмова ОА практика 12.2\obj\Debug\Угрюмова_ОА_практика_12._2.Form1.resources
+C:\Users\305-12\Desktop\Угрюмова Пр-21\Угрюмова ОА практика 12.2\obj\Debug\Угрюмова_ОА_практика_12._2.Properties.Resources.resources
+C:\Users\305-12\Desktop\Угрюмова Пр-21\Угрюмова ОА практика 12.2\obj\Debug\Угрюмова ОА практика 12.2.csproj.GenerateResource.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\Угрюмова ОА практика 12.2\obj\Debug\Угрюмова ОА практика 12.2.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\Угрюмова ОА практика 12.2\obj\Debug\Угрюмова ОА практика 12.2.exe
+C:\Users\305-12\Desktop\Угрюмова Пр-21\Угрюмова ОА практика 12.2\obj\Debug\Угрюмова ОА практика 12.2.pdb
